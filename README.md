@@ -14,3 +14,4 @@
 4. Cambiar las variables de entorno
 5. Levantar  la bdd ```docker-compose up -d```
 6. Levantar: ```npm start:dev```
+7. Ejecutar seed ```http://localhost:3000/api/seed```
